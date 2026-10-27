@@ -1,0 +1,4 @@
+[31m✖[0m Failed executing command: "pkill -USR1 cava"
+zsh:kill:1: not enough arguments
+[31m✖[0m Failed executing command: "kill -SIGUSR2 $(pgrep ghostty)"
+[31m✖[0m Failed executing command: "pkill -SIGUSR1 nvim"
